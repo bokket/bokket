@@ -4,7 +4,9 @@
 
 #### :bar_chart: Weekly development breakdown
 
-![](https://github-readme-stats.vercel.app/api?username=bokket)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
 **bokket/bokket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
