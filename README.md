@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=bokket&show_icons=true" alt="">
+<img  src="https://github-readme-stats.vercel.app/api?username=bokket&show_icons=true" alt="">
 
-<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokket" alt="">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokket" alt="">
 
 #### :bar_chart: Weekly development breakdown
 
