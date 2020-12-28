@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![bokket's github stats](https://github-readme-stats.vercel.app/api?username=bokket&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=bokket&show_icons=true" alt="">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokket)](https://github.com/anuraghazra/github-readme-stats)
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokket" alt="">
 
 #### :bar_chart: Weekly development breakdown
 
