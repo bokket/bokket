@@ -9,7 +9,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++     7 hrs 36 mins   █████████████████████████   99.78 % 
+C++          10 hrs 10 mins  ████████████████████████▓   99.18 % 
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
 
