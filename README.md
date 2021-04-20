@@ -4,8 +4,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bokket" alt="">
 
-#### :bar_chart: Weekly development breakdown
-
 
 
 
@@ -20,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### :bar_chart: Weekly development breakdown
 
 
 <!--START_SECTION:waka-->
