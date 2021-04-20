@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--START_SECTION:waka-->
+```text
+C++   1 hr 55 mins    █████████████████████████   99.60 % 
+```
+<!--END_SECTION:waka-->
+
+<!--
+**bokket/bokket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
