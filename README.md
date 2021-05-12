@@ -4,8 +4,8 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Go           9 hrs 2 mins    ██████████████████████▒░░   89.00 % 
-C++          57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Go           9 hrs 2 mins    █████████████████████▒░░░   85.88 % 
+C++          1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
