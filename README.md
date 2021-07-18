@@ -4,9 +4,9 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Go         10 hrs 13 mins  ████████████████████████▓   98.92 % 
-TOML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Go         11 hrs 32 mins  ████████████████████████▓   99.00 % 
+TOML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 <!--END_SECTION:waka-->
