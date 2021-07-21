@@ -4,10 +4,10 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Go         12 hrs 15 mins  ████████████████████████▓   98.74 % 
+Go         12 hrs 15 mins  ████████████████████████▓   98.51 % 
 TOML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 <!--END_SECTION:waka-->
