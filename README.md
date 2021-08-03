@@ -4,9 +4,9 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Go           17 hrs 42 mins  ██████████████████████▒░░   89.27 % 
-TOML         1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Makefile     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Go           15 hrs 29 mins  ██████████████████████▓░░   90.34 % 
+TOML         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Makefile     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
