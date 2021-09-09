@@ -4,10 +4,10 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Go         4 hrs 4 mins    ██████████████▓░░░░░░░░░░   58.50 % 
-C++        2 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.67 % 
-YAML       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Go         4 hrs 48 mins   ████████████▒░░░░░░░░░░░░   49.58 % 
+C++        2 hrs 36 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.94 % 
+Markdown   1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+YAML       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Makefile   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
