@@ -4,10 +4,10 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-C++          7 hrs 26 mins   █████████████████▒░░░░░░░   69.90 % 
-C            1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-ObjectiveC   1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-CMake        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+C++          8 hrs 27 mins   ██████████████████▒░░░░░░   73.29 % 
+ObjectiveC   1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+C            1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Assembly     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
