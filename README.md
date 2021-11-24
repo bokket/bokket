@@ -4,7 +4,7 @@
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-C++          1 hr 24 mins    ███████████████████████░░   92.14 % 
-ObjectiveC   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+C++          1 hr 35 mins    ██████████████████████▒░░   89.38 % 
+ObjectiveC   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 ```
 <!--END_SECTION:waka-->
